@@ -1,0 +1,7 @@
+1 - Interfaz basica
+|-> Agregar tarjetas/creditos a una Cuenta.
+|-> Ver Resumen de una Cuenta.
+
+2 - Refactoring
+|-> Revisar load_json
+|-> Hacer un modelo de clases posta(es cualquiera ahora).
