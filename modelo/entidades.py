@@ -26,7 +26,7 @@ class Credito(Jsonable):
     """
 
     def __init__(self, **args):
-        self.nombre = args["nombre"]
+        self.identificador = args["identificador"]
         self.cuotas_total = args["cuotas_total"]
         self.cuotas_pendientes = args["cuotas_pendientes"]
         self.monto = args["monto"]
