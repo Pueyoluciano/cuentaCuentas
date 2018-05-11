@@ -9,7 +9,6 @@ class Interfaz(Jsonable):
         self.cuenta = args["cuenta"]
         # self.version = args["version"]
         # self.nombre = args["nombre"]
-        pass
 
     def consola(self):
         print "CUENTA CUENTAS"
