@@ -1,39 +1,17 @@
 {
- "json_indent": 4, 
- "json_sort_keys": true, 
- "nombre": "Cuenta1", 
- "tarjetas": {
-  "Mastercard": {
-   "creditos": [
-    {
-     "cuotas_pendientes": 5, 
-     "cuotas_total": 12, 
-     "monto": 124.5, 
-     "nombre": "farabella"
-    }, 
-    {
-     "cuotas_pendientes": 5, 
-     "cuotas_total": 6, 
-     "monto": 51.5, 
-     "nombre": "ogt"
+    "nombre": "Tarjetas Lucho", 
+    "tarjetas": {
+        "Galicia": {
+            "creditos": [], 
+            "nombre": "Galicia"
+        }, 
+        "Mastercard": {
+            "creditos": [], 
+            "nombre": "Mastercard"
+        }, 
+        "Shopping": {
+            "creditos": [], 
+            "nombre": "Shopping"
+        }
     }
-   ]
-  }, 
-  "Visa": {
-   "creditos": [
-    {
-     "cuotas_pendientes": 1, 
-     "cuotas_total": 1, 
-     "monto": 600.5, 
-     "nombre": "GAS"
-    }, 
-    {
-     "cuotas_pendientes": 1, 
-     "cuotas_total": 1, 
-     "monto": 801.5, 
-     "nombre": "LUZ"
-    }
-   ]
-  }
- }
 }
